@@ -1,0 +1,104 @@
+body {
+  overflow: hidden;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.map__wrapper {
+  width: 70%;
+  height: 100%;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+
+  overflow-x: hidden;
+}
+
+.side {
+  width: 30%;
+  height: calc(100vh - 65px);
+}
+
+.rapper__name {
+  border: none;
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+}
+
+.map {
+  width: 100%;
+  height: 100%;
+}
+
+/* footer */
+
+.footer {
+  padding: 13px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  bottom: 4px;
+  background-color: #fafafa;
+  margin-top: 0;
+  border-top: 1px solid #000;
+}
+
+.footer__logo {
+  margin-top: 5px;
+  width: 22px;
+  height: auto;
+  transition: transform 0.2s linear;
+}
+
+.footer__logo:hover {
+  transform: scale(1.4);
+}
+
+.footer__logo_tg {
+  width: 30px;
+  height: auto;
+  transition: transform 0.2s linear;
+}
+
+.footer__logo_tg_text {
+  display: none;
+}
+
+.footer__logo_tg:hover + .footer__logo_tg_text {
+  display: block;
+}
+
+.footer__logo_tg:hover {
+  transform: scale(1.4);
+}
+
+@media screen and (max-width: 991.98px) {
+  body {
+    overflow: auto;
+  }
+
+  .main {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .map__wrapper {
+    width: 100%;
+    height: 50vh;
+    position: static;
+    top: 50%;
+    right: 0;
+    transform: translateY(0);
+  }
+
+  .side {
+    width: 100%;
+    height: 500px;
+  }
+}
