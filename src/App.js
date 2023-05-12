@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from "react";
-import { YMaps, Map, Placemark } from "react-yandex-maps";
+import { YMaps, Map, Placemark } from "@pbe/react-yandex-maps";
 import City from "./components/Сity.jsx";
 import cities from "./cities.js";
 
