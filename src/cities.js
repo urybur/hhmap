@@ -1666,7 +1666,7 @@ const cities = [
   },
   {
     id: 112,
-    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1139",
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1140",
     city: "Ачинск",
     placemark: {
       geometry: [56.269501, 90.49524],
@@ -1805,6 +1805,51 @@ const cities = [
     city: "Альметьевск",
     placemark: {
       geometry: [54.901171, 52.29723],
+      properties: {
+        iconContent: "",
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false,
+      },
+    },
+  },
+  {
+    id: 122,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1151",
+    city: "Тула",
+    placemark: {
+      geometry: [54.193122, 37.617348],
+      properties: {
+        iconContent: "",
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false,
+      },
+    },
+  },
+  {
+    id: 123,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1152",
+    city: "Чита",
+    placemark: {
+      geometry: [52.033635, 113.501049],
+      properties: {
+        iconContent: "",
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false,
+      },
+    },
+  },
+  {
+    id: 124,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1153",
+    city: "Москва. Химки",
+    placemark: {
+      geometry: [55.889361, 37.444853],
       properties: {
         iconContent: "",
       },
