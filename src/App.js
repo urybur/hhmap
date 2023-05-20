@@ -2,6 +2,7 @@ import React, { useState, useCallback } from "react";
 import { YMaps, Map, Placemark } from "@pbe/react-yandex-maps";
 import City from "./components/Сity.jsx";
 import cities from "./cities.js";
+import { YMInitializer } from "react-yandex-metrika";
 
 import "./App.css";
 
@@ -26,6 +27,7 @@ function App() {
           </Map>
         </YMaps>
       </div>
+      <YMInitializer accounts={[93649111]} options={{ webvisor: true }} />
     </div>
   );
 }
