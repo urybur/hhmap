@@ -17,7 +17,7 @@ function Footer() {
           alt="Логотип телеграмма для карты русского репа"
         />
       </a>
-      <div className="footer__logo_tg_text">text</div>
+      <h1 className="footer__logo_tg_text">карта русского репа</h1>
     </footer>
   );
 }
