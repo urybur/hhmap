@@ -6,13 +6,13 @@ const cities = [
     placemark: {
       geometry: [56.641311, 47.871342],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 1,
@@ -21,13 +21,13 @@ const cities = [
     placemark: {
       geometry: [56.328571, 44.002048],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 2,
@@ -36,13 +36,13 @@ const cities = [
     placemark: {
       geometry: [56.337247, 50.277449],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 3,
@@ -51,13 +51,13 @@ const cities = [
     placemark: {
       geometry: [51.834809, 107.584547],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 4,
@@ -66,13 +66,13 @@ const cities = [
     placemark: {
       geometry: [56.946845, 24.106075],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 5,
@@ -81,13 +81,13 @@ const cities = [
     placemark: {
       geometry: [61.791244, 34.391273],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 6,
@@ -96,13 +96,13 @@ const cities = [
     placemark: {
       geometry: [56.909583, 60.816457],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 7,
@@ -111,13 +111,13 @@ const cities = [
     placemark: {
       geometry: [54.735152, 55.958736],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 8,
@@ -126,13 +126,13 @@ const cities = [
     placemark: {
       geometry: [55.77278, 37.730625],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 9,
@@ -141,13 +141,13 @@ const cities = [
     placemark: {
       geometry: [55.753635, 37.704826],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 10,
@@ -156,13 +156,13 @@ const cities = [
     placemark: {
       geometry: [55.159902, 61.402554],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 11,
@@ -171,13 +171,13 @@ const cities = [
     placemark: {
       geometry: [58.603595, 49.668023],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 12,
@@ -186,13 +186,13 @@ const cities = [
     placemark: {
       geometry: [55.755864, 37.617698],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 13,
@@ -201,13 +201,13 @@ const cities = [
     placemark: {
       geometry: [53.346785, 83.776856],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 14,
@@ -216,13 +216,13 @@ const cities = [
     placemark: {
       geometry: [58.19667, 68.23381],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 15,
@@ -231,13 +231,13 @@ const cities = [
     placemark: {
       geometry: [56.108738, 47.476807],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 16,
@@ -246,13 +246,13 @@ const cities = [
     placemark: {
       geometry: [59.945657, 29.569368],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 17,
@@ -261,13 +261,13 @@ const cities = [
     placemark: {
       geometry: [56.139918, 47.247728],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 18,
@@ -276,13 +276,13 @@ const cities = [
     placemark: {
       geometry: [53.507852, 49.420411],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 19,
@@ -291,13 +291,13 @@ const cities = [
     placemark: {
       geometry: [55.644348, 37.529654],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 20,
@@ -306,13 +306,13 @@ const cities = [
     placemark: {
       geometry: [48.480229, 135.071917],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 21,
@@ -321,13 +321,13 @@ const cities = [
     placemark: {
       geometry: [53.902284, 27.561831],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 22,
@@ -336,13 +336,13 @@ const cities = [
     placemark: {
       geometry: [43.115542, 131.885494],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 23,
@@ -351,13 +351,13 @@ const cities = [
     placemark: {
       geometry: [45.03547, 38.975313],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 24,
@@ -366,13 +366,13 @@ const cities = [
     placemark: {
       geometry: [55.799699, 37.570923],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 25,
@@ -381,13 +381,13 @@ const cities = [
     placemark: {
       geometry: [53.407163, 58.980291],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 26,
@@ -396,13 +396,13 @@ const cities = [
     placemark: {
       geometry: [61.668797, 50.836497],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 27,
@@ -411,13 +411,13 @@ const cities = [
     placemark: {
       geometry: [40.369546, 49.835073],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 28,
@@ -426,13 +426,13 @@ const cities = [
     placemark: {
       geometry: [40.714606, -74.0028],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 29,
@@ -441,13 +441,13 @@ const cities = [
     placemark: {
       geometry: [49.89687, 10.894328],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 30,
@@ -456,13 +456,13 @@ const cities = [
     placemark: {
       geometry: [51.507351, -0.127696],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 31,
@@ -471,13 +471,13 @@ const cities = [
     placemark: {
       geometry: [47.222078, 39.720358],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 32,
@@ -486,13 +486,13 @@ const cities = [
     placemark: {
       geometry: [51.660781, 39.200296],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 33,
@@ -501,13 +501,13 @@ const cities = [
     placemark: {
       geometry: [55.030204, 82.92043],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 34,
@@ -516,13 +516,13 @@ const cities = [
     placemark: {
       geometry: [59.938955, 30.315644],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 35,
@@ -531,13 +531,13 @@ const cities = [
     placemark: {
       geometry: [59.220501, 39.891523],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 36,
@@ -546,13 +546,13 @@ const cities = [
     placemark: {
       geometry: [53.2434, 34.363991],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 37,
@@ -561,13 +561,13 @@ const cities = [
     placemark: {
       geometry: [55.652669, 37.744774],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 38,
@@ -576,13 +576,13 @@ const cities = [
     placemark: {
       geometry: [63.566006, 53.663999],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 39,
@@ -591,13 +591,13 @@ const cities = [
     placemark: {
       geometry: [57.152985, 65.541227],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 40,
@@ -606,13 +606,13 @@ const cities = [
     placemark: {
       geometry: [48.292066, 25.93518],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 41,
@@ -621,13 +621,13 @@ const cities = [
     placemark: {
       geometry: [50.450441, 30.52355],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 42,
@@ -636,13 +636,13 @@ const cities = [
     placemark: {
       geometry: [55.542401, 37.531523],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 43,
@@ -651,13 +651,13 @@ const cities = [
     placemark: {
       geometry: [52.289588, 104.280606],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 44,
@@ -666,13 +666,13 @@ const cities = [
     placemark: {
       geometry: [55.734162, 37.63429],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 45,
@@ -681,13 +681,13 @@ const cities = [
     placemark: {
       geometry: [55.761715, 37.570986],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 46,
@@ -696,13 +696,13 @@ const cities = [
     placemark: {
       geometry: [53.195878, 50.100202],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 47,
@@ -711,13 +711,13 @@ const cities = [
     placemark: {
       geometry: [56.838011, 60.597474],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 48,
@@ -726,13 +726,13 @@ const cities = [
     placemark: {
       geometry: [53.119951, 8.806778],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 49,
@@ -741,13 +741,13 @@ const cities = [
     placemark: {
       geometry: [54.630706, 21.819503],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 50,
@@ -756,13 +756,13 @@ const cities = [
     placemark: {
       geometry: [57.767918, 40.926894],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 51,
@@ -771,13 +771,13 @@ const cities = [
     placemark: {
       geometry: [41.386378, 2.18676],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 52,
@@ -786,13 +786,13 @@ const cities = [
     placemark: {
       geometry: [42.875969, 74.603701],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 54,
@@ -801,13 +801,13 @@ const cities = [
     placemark: {
       geometry: [60.938545, 76.558902],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 55,
@@ -816,13 +816,13 @@ const cities = [
     placemark: {
       geometry: [55.600857, 36.47187],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 56,
@@ -831,13 +831,13 @@ const cities = [
     placemark: {
       geometry: [55.730776, 37.815193],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 57,
@@ -846,13 +846,13 @@ const cities = [
     placemark: {
       geometry: [53.195042, 45.018316],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 58,
@@ -861,13 +861,13 @@ const cities = [
     placemark: {
       geometry: [49.80776, 73.088504],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 59,
@@ -876,13 +876,13 @@ const cities = [
     placemark: {
       geometry: [59.807224, 30.379523],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 60,
@@ -891,13 +891,13 @@ const cities = [
     placemark: {
       geometry: [43.237163, 76.945627],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 61,
@@ -906,13 +906,13 @@ const cities = [
     placemark: {
       geometry: [55.831003, 37.330399],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 62,
@@ -921,13 +921,13 @@ const cities = [
     placemark: {
       geometry: [47.91042, 33.391789],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 63,
@@ -936,13 +936,13 @@ const cities = [
     placemark: {
       geometry: [55.184217, 30.202878],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 64,
@@ -951,13 +951,13 @@ const cities = [
     placemark: {
       geometry: [51.128207, 71.43042],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 65,
@@ -966,13 +966,13 @@ const cities = [
     placemark: {
       geometry: [55.672793, 37.56326],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 66,
@@ -981,13 +981,13 @@ const cities = [
     placemark: {
       geometry: [52.42416, 31.014281],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 67,
@@ -996,13 +996,13 @@ const cities = [
     placemark: {
       geometry: [43.024616, 44.681771],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 68,
@@ -1011,13 +1011,13 @@ const cities = [
     placemark: {
       geometry: [55.735038, 37.509236],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 69,
@@ -1026,13 +1026,13 @@ const cities = [
     placemark: {
       geometry: [59.904356, 30.472364],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 70,
@@ -1041,13 +1041,13 @@ const cities = [
     placemark: {
       geometry: [43.635588, 51.168245],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 71,
@@ -1056,13 +1056,13 @@ const cities = [
     placemark: {
       geometry: [53.736211, 119.766089],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 72,
@@ -1071,13 +1071,13 @@ const cities = [
     placemark: {
       geometry: [43.485259, 43.607081],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 73,
@@ -1086,13 +1086,13 @@ const cities = [
     placemark: {
       geometry: [51.533562, 46.034266],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 74,
@@ -1101,13 +1101,13 @@ const cities = [
     placemark: {
       geometry: [57.337669, 61.895513],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 75,
@@ -1116,13 +1116,13 @@ const cities = [
     placemark: {
       geometry: [55.61388, 37.604098],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 76,
@@ -1131,13 +1131,13 @@ const cities = [
     placemark: {
       geometry: [49.992167, 36.231202],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 77,
@@ -1146,13 +1146,13 @@ const cities = [
     placemark: {
       geometry: [56.01242, 37.47492],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 78,
@@ -1161,13 +1161,13 @@ const cities = [
     placemark: {
       geometry: [56.484645, 84.947649],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 79,
@@ -1176,13 +1176,13 @@ const cities = [
     placemark: {
       geometry: [50.160735, 14.395657],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 80,
@@ -1191,13 +1191,13 @@ const cities = [
     placemark: {
       geometry: [54.710162, 20.510137],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 81,
@@ -1206,13 +1206,13 @@ const cities = [
     placemark: {
       geometry: [57.431916, 60.062321],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 82,
@@ -1221,13 +1221,13 @@ const cities = [
     placemark: {
       geometry: [39.948419, -75.150173],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 83,
@@ -1236,13 +1236,13 @@ const cities = [
     placemark: {
       geometry: [53.11426, 9.380568],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 84,
@@ -1251,13 +1251,13 @@ const cities = [
     placemark: {
       geometry: [56.010569, 92.852572],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 85,
@@ -1266,13 +1266,13 @@ const cities = [
     placemark: {
       geometry: [53.894548, 30.330654],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 86,
@@ -1281,13 +1281,13 @@ const cities = [
     placemark: {
       geometry: [54.989347, 73.368221],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 87,
@@ -1296,13 +1296,13 @@ const cities = [
     placemark: {
       geometry: [56.151682, 101.633505],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 88,
@@ -1311,13 +1311,13 @@ const cities = [
     placemark: {
       geometry: [55.70881, 37.737444],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 89,
@@ -1326,13 +1326,13 @@ const cities = [
     placemark: {
       geometry: [46.484213, 30.731689],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 90,
@@ -1341,13 +1341,13 @@ const cities = [
     placemark: {
       geometry: [55.796127, 49.106414],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 91,
@@ -1356,13 +1356,13 @@ const cities = [
     placemark: {
       geometry: [54.840526, 46.591949],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 92,
@@ -1371,13 +1371,13 @@ const cities = [
     placemark: {
       geometry: [53.214496, 63.6321],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 93,
@@ -1386,13 +1386,13 @@ const cities = [
     placemark: {
       geometry: [55.698645, 37.773556],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 94,
@@ -1401,13 +1401,13 @@ const cities = [
     placemark: {
       geometry: [55.991893, 37.21439],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 95,
@@ -1416,13 +1416,13 @@ const cities = [
     placemark: {
       geometry: [65.104875, 57.154304],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 96,
@@ -1431,13 +1431,13 @@ const cities = [
     placemark: {
       geometry: [63.638923, 54.84584],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 97,
@@ -1446,13 +1446,13 @@ const cities = [
     placemark: {
       geometry: [55.741272, 52.403662],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 98,
@@ -1461,13 +1461,13 @@ const cities = [
     placemark: {
       geometry: [55.751143, 37.590003],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 99,
@@ -1476,13 +1476,13 @@ const cities = [
     placemark: {
       geometry: [55.633434, 37.765067],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 100,
@@ -1491,13 +1491,13 @@ const cities = [
     placemark: {
       geometry: [62.027221, 129.732178],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 101,
@@ -1506,13 +1506,13 @@ const cities = [
     placemark: {
       geometry: [52.285577, 76.940722],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 102,
@@ -1521,13 +1521,13 @@ const cities = [
     placemark: {
       geometry: [48.061025, 39.934929],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 103,
@@ -1536,13 +1536,13 @@ const cities = [
     placemark: {
       geometry: [58.010455, 56.229443],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 104,
@@ -1551,13 +1551,13 @@ const cities = [
     placemark: {
       geometry: [40.517525, 72.80557],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 105,
@@ -1566,13 +1566,13 @@ const cities = [
     placemark: {
       geometry: [46.347614, 48.030178],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 106,
@@ -1581,13 +1581,13 @@ const cities = [
     placemark: {
       geometry: [56.845081, 53.188062],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 107,
@@ -1596,13 +1596,13 @@ const cities = [
     placemark: {
       geometry: [54.314192, 48.403132],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 108,
@@ -1611,13 +1611,13 @@ const cities = [
     placemark: {
       geometry: [48.707067, 44.516975],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 109,
@@ -1626,13 +1626,13 @@ const cities = [
     placemark: {
       geometry: [54.629565, 39.741917],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 110,
@@ -1641,13 +1641,13 @@ const cities = [
     placemark: {
       geometry: [53.82359, 39.54939],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 111,
@@ -1656,13 +1656,13 @@ const cities = [
     placemark: {
       geometry: [43.585472, 39.723098],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 112,
@@ -1671,13 +1671,13 @@ const cities = [
     placemark: {
       geometry: [56.269501, 90.49524],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 113,
@@ -1686,13 +1686,13 @@ const cities = [
     placemark: {
       geometry: [59.391325, 56.714363],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 114,
@@ -1701,13 +1701,13 @@ const cities = [
     placemark: {
       geometry: [59.565155, 150.808586],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 115,
@@ -1716,13 +1716,13 @@ const cities = [
     placemark: {
       geometry: [44.556972, 33.526402],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 116,
@@ -1731,13 +1731,13 @@ const cities = [
     placemark: {
       geometry: [44.723771, 37.768813],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 117,
@@ -1746,13 +1746,13 @@ const cities = [
     placemark: {
       geometry: [48.015884, 37.80285],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 118,
@@ -1761,13 +1761,13 @@ const cities = [
     placemark: {
       geometry: [43.905518, 42.715718],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 119,
@@ -1776,13 +1776,13 @@ const cities = [
     placemark: {
       geometry: [56.129057, 40.406635],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 120,
@@ -1791,13 +1791,13 @@ const cities = [
     placemark: {
       geometry: [46.640319, 32.614962],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 121,
@@ -1806,13 +1806,13 @@ const cities = [
     placemark: {
       geometry: [54.901171, 52.29723],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 122,
@@ -1821,13 +1821,13 @@ const cities = [
     placemark: {
       geometry: [54.193122, 37.617348],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 123,
@@ -1836,13 +1836,13 @@ const cities = [
     placemark: {
       geometry: [52.033635, 113.501049],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
   {
     id: 124,
@@ -1851,14 +1851,74 @@ const cities = [
     placemark: {
       geometry: [55.889361, 37.444853],
       properties: {
-        iconContent: "",
+        iconContent: ""
       },
       options: {
         preset: "islands#blackStretchyIcon",
-        draggable: false,
-      },
-    },
+        draggable: false
+      }
+    }
   },
+  {
+    id: 125,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1155",
+    city: "Обнинск",
+    placemark: {
+      geometry: [55.11202, 36.586459],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 126,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1156",
+    city: "Мирный",
+    placemark: {
+      geometry: [62.541028, 113.978701],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 127,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1157",
+    city: "Ярцево",
+    placemark: {
+      geometry: [55.066123, 32.688292],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 128,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1158",
+    city: "Кемерово",
+    placemark: {
+      geometry: [55.355198, 86.086847],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  }
 ];
 
 export default cities;
