@@ -1156,10 +1156,10 @@ const cities = [
   },
   {
     id: 78,
-    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1101",
-    city: "Томск",
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1170",
+    city: "Усть-Каменогорск",
     placemark: {
-      geometry: [56.484645, 84.947649],
+      geometry: [49.948325, 82.627848],
       properties: {
         iconContent: ""
       },
@@ -1910,6 +1910,156 @@ const cities = [
     city: "Кемерово",
     placemark: {
       geometry: [55.355198, 86.086847],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 129,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1161",
+    city: "Елец",
+    placemark: {
+      geometry: [52.621938, 38.500446],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 130,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1162",
+    city: "Мытищи",
+    placemark: {
+      geometry: [55.909968, 37.736743],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 131,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1163",
+    city: "Советск",
+    placemark: {
+      geometry: [55.08442, 21.901106],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 132,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1164",
+    city: "Минусинск",
+    placemark: {
+      geometry: [53.710015, 91.686981],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 133,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1165",
+    city: "Москва. Зябликово",
+    placemark: {
+      geometry: [55.620113, 37.748484],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 134,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1166",
+    city: "Мурманск",
+    placemark: {
+      geometry: [68.964319, 33.048633],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 135,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1167",
+    city: "Октябрьский",
+    placemark: {
+      geometry: [61.088995, 43.163897],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 136,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1168",
+    city: "Октябрьский",
+    placemark: {
+      geometry: [40.177628, 44.512546],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 137,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1169",
+    city: "Сторожевские Хутора",
+    placemark: {
+      geometry: [52.153078, 39.88651],
+      properties: {
+        iconContent: ""
+      },
+      options: {
+        preset: "islands#blackStretchyIcon",
+        draggable: false
+      }
+    }
+  },
+  {
+    id: 138,
+    playlistUrl: "https://music.yandex.ru/iframe/#playlist/uryburj/1170",
+    city: "Усть-Каменогорск",
+    placemark: {
+      geometry: [49.948325, 82.627848],
       properties: {
         iconContent: ""
       },
